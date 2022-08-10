@@ -28,8 +28,8 @@ module.exports = {
           { text: 'ECMAscript新特性', link: '/pages/52d5c3/' },
           {
             text: 'javascript异步编程', items: [
-              { text: 'A', link: '/pages/8dfab5/' },
-              { text: 'B', link: '/pages/dd027d/' },
+              { text: '函数式编程', link: '/pages/8dfab5/' },
+              { text: 'javascrpit异步编程', link: '/pages/dd027d/' },
             ]
           }
         ]
